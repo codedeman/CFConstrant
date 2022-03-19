@@ -6,6 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "UIView+CFConstrant.h"
 
 //! Project version number for CFContrant.
 FOUNDATION_EXPORT double CFContrantVersionNumber;
