@@ -12,7 +12,6 @@ let package = Package(
             targets: ["CFConstrant"]),
     ],
     dependencies: [
-        .package(name: "CFConstrant", url: "https://github.com/codedeman/CFConstrant/tree/develop", from: 1.0, from: "0.1")
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
     ],
